@@ -1,0 +1,5 @@
+string id
+---
+int64[] result_sequence
+---
+int64[] partial_sum

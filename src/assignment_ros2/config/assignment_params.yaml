@@ -1,0 +1,4 @@
+assignment_node:
+  ros__parameters:
+    university_id: '2020742057'
+    publish_frequency: 1.0
